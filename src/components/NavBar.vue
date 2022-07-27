@@ -10,7 +10,7 @@
   <nav class="flex justify-center text-white bg-slate-900">
     <div class="lg:w-2/3 flex items-center justify-between py-4">
       <div>
-        <router-link to="/" class="font-mono text-2xl">endeavr</router-link>
+        <router-link to="/" class="font-mono text-2xl">ndevr</router-link>
       </div>
       <div class="flex space-x-4 items-center">
         <router-link
